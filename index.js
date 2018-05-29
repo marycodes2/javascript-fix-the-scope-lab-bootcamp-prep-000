@@ -29,4 +29,4 @@ var funkyFunction = function() {
 myAnimal()
 var theFunk = funkyFunction()
 console.log(theFunk)
-funkyFunction()
+function()
