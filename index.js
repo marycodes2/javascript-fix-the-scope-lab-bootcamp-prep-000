@@ -28,5 +28,5 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 myAnimal()
 var theFunk = funkyFunction()
-hello = theFunk.function()
+hello = funkyFunction.function()
 console.log(hello)
